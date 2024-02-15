@@ -21,8 +21,3 @@
 > ## < 배포 >
 
 - netlify
-
-**< whiteMode / darkMode >**
-<br />
-<img src="images/img.png" width="400" height="400"/>
-<img src="images/img_1.png" width="400" height="400"/>
